@@ -5,7 +5,7 @@ Easy all in one Skript Xiaomi V1 + V2 :
 
 Alternativ Skripts found here :
 
-`https://github.com/KittyBua/xish`
+https://github.com/KittyBua/xish
 
 !!!!!!!!!!!!
 
