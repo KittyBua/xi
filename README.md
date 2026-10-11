@@ -17,3 +17,13 @@ https://play.google.com/store/apps/details?id=dev.vodik7.tvquickactions.free
 
 https://play.google.com/store/apps/details?id=dev.vodik7.tvquickactions
 
+Tip: This one is even better – Onestart:
+
+1 Free of charge
+
+2 Better settings for seconds and apps
+
+https://play.google.com/store/apps/details?id=com.iniro.onstartapps
+
+!!!!!!!!!!!!!!!!!
+
