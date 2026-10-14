@@ -7,7 +7,7 @@ Easy all in one Skript Xiaomi V1 + V2 :
 
 Alternativ Auto start Skript with git fetch :
 
-'pkg install wget -y && wget https://github.com/user-attachments/files/33426362/i2.sh && chmod +x i2.sh && ./i2.sh'
+`pkg install wget -y && wget https://github.com/user-attachments/files/33426362/i2.sh && chmod +x i2.sh && ./i2.sh`
 
 
 !!!!!!!!!!!!!!!!
