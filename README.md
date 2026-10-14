@@ -3,9 +3,19 @@ Easy all in one Skript Xiaomi V1 + V2 :
 `pkg install wget -y && wget https://github.com/user-attachments/files/33303808/i.sh && chmod +x i.sh && ./i.sh`
 
 
+!!!!!!!!!!!!!
+
+Alternativ Auto start Skript with git fetch :
+
+'pkg install wget -y && wget https://github.com/user-attachments/files/33426362/i2.sh && chmod +x i2.sh && ./i2.sh'
+
+
+!!!!!!!!!!!!!!!!
+
 Alternativ Skripts found here :
 
 https://github.com/KittyBua/xish
+
 
 !!!!!!!!!!!!
 
