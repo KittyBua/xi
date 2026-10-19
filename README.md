@@ -41,5 +41,9 @@ INFO NEWS :
 
 Just an update: he’s managed to get Termux running in the background upon startup! It will be available on the Play Store soon. It’s an auto-start app that eliminates the need to manually open Termux when your Android TV box reboots!
 
+I’ve received the test version!
+
+So that I can try it out!
+
 https://ibb.co/xtD7PYxt
 
